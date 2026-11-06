@@ -2,3 +2,6 @@
 ~$*
 desktop.ini
 Thumbs.db
+
+# Raw recording over GitHub 100 MB limit; only the final video is committed
+video/video_demo.mp4
